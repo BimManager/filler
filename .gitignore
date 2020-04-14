@@ -1,0 +1,7 @@
+*~
+#*#
+*.trace
+build/
+test/
+trash/
+kkozlov.filler
